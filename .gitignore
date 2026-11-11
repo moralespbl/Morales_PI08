@@ -1,0 +1,9 @@
+.env
+credenciales.json
+credentials.json
+*.pem
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
